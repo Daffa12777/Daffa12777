@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Daffa Fadlurrahman</h1>
+<h1 align="center">Hi , I'm Muhammad Daffa Fadlurrahman</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=BF3131&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer+%26+Researcher;Computer+Vision+%7C+Deep+Learning;Telecommunication+Engineering+Student" alt="Typing SVG" />
@@ -7,10 +7,9 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Building **Boostify** — a smile-based face recognition attendance system (ML + IoT)
 - 🤖 Focused on **Machine Learning, Computer Vision & Deep Learning**
 - 🎓 Telecommunication Engineering · researcher at heart
-- ⚡ Fun fact: I make machines recognize your smile 😄
+
 
 ---
 
