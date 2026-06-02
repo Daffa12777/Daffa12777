@@ -156,7 +156,7 @@ class MuhammadDaffaFadlurrahman:
 <br/>
 
 ```
-"First, solve the problem. Then, write the code." — John Johnson
+"Karena sesungguhnya bersama kesulitan itu ada kemudahan. Sesungguhnya bersama kesulitan itu ada kemudahan." 
 ```
 
 ![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
