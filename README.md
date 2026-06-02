@@ -1,48 +1,62 @@
-# Muhammad Daffa Fadlurrahman
+<h1 align="center">Hi 👋, I'm Muhammad Daffa Fadlurrahman</h1>
 
-**Machine Learning Engineer & Researcher**
-Computer Vision · Deep Learning · Telecommunication Engineering Student
-
----
-
-## About Me
-
-I'm a Telecommunication Engineering student with a strong focus on **Machine Learning, Computer Vision, and Deep Learning**. I enjoy building intelligent systems that solve real-world problems and turning data into meaningful insights.
-
-Currently, I'm developing **Boostify** — a smile-based face recognition attendance system that combines machine learning with embedded hardware.
+<p align="center">
+  <a href="https://portodf.netlify.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=BF3131&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer+%26+Researcher;Computer+Vision+%7C+Deep+Learning;Telecommunication+Engineering+Student" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## Technical Skills
-
-| Category | Technologies |
-| --- | --- |
-| **Languages** | Python |
-| **ML / DL Frameworks** | TensorFlow, PyTorch, Keras, scikit-learn |
-| **Computer Vision** | OpenCV, dlib |
-| **Data & Analysis** | NumPy, Pandas, Matplotlib |
-| **Environment & Tools** | Jupyter Notebook, Git, Linux |
+### 🧠 About Me
+- 🔭 Building **Boostify** — a smile-based face recognition attendance system (ML + IoT + Web)
+- 🤖 Focused on **Machine Learning, Computer Vision & Deep Learning**
+- 🎓 Telecommunication Engineering · researcher at heart
+- 🌐 Portfolio: **[portodf.netlify.app](https://portodf.netlify.app)**
 
 ---
 
-## Focus Areas
-
-- Computer Vision & face recognition
-- Deep learning model training and evaluation
-- Applied machine learning for real-world systems
-- Embedded ML (deploying models on edge devices)
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,js,ts,react,nextjs,nodejs,express,tailwind,prisma,postgres,supabase,git,github,raspberrypi,linux,vscode" />
+</p>
 
 ---
 
-## Currently
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daffa12777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffa12777&layout=compact&theme=tokyonight" />
+</p>
 
-- Building **Boostify**, an ML-powered attendance system
-- Deepening my knowledge in deep learning and model optimization
-- Exploring research opportunities in artificial intelligence
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Daffa12777&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Daffa12777&theme=tokyonight&no-frame=true&column=7" />
+</p>
 
 ---
 
-## Contact
+### 🚀 Featured Project
+<p align="center">
+  <a href="https://github.com/Daffa12777/boostify-ml">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daffa12777&repo=boostify-ml&theme=tokyonight" />
+  </a>
+</p>
 
-- **Email:** daffafr05@gmail.com
-- **GitHub:** [@Daffa12777](https://github.com/Daffa12777)
+> **Boostify** — Face recognition attendance system that records your presence with a smile. Built with Python, OpenCV & dlib on Raspberry Pi, integrated with a Next.js + Node.js web dashboard.
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://portodf.netlify.app"><img src="https://img.shields.io/badge/Portfolio-BF3131?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="mailto:daffafr05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Daffa12777"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Daffa12777&color=BF3131&style=flat-square&label=Profile+Views" />
+</p>
