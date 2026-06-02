@@ -124,7 +124,7 @@ class MuhammadDaffaFadlurrahman:
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Daffa12777&theme=tokyonight&border=BF3131&ring=BF3131&fire=BF3131&currStreakLabel=BF3131" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Daffa12777&theme=tokyonight&border=BF3131&ring=BF3131&fire=BF3131&currStreakLabel=BF3131" />
 
 <br/>
 
@@ -156,9 +156,8 @@ class MuhammadDaffaFadlurrahman:
 <br/>
 
 ```
-"Karena sesungguhnya bersama kesulitan itu ada kemudahan. Sesungguhnya bersama kesulitan itu ada kemudahan." 
+"Karena sesungguhnya bersama kesulitan itu ada kemudahan. Sesungguhnya bersama kesulitan itu ada kemudahan."
 ```
 
-![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
