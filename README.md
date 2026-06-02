@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 🔭 Building **Boostify** — a smile-based face recognition attendance system  
 - 🤖 Passionate about **Machine Learning, Computer Vision & Deep Learning**  
@@ -53,24 +53,8 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Daffa12777&bg_color=0D1117&color=BF3131&line=BF3131&point=ffffff&area=true&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Daffa12777&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </p>
-
----
-
-## 🚀 Featured Project
-
-<p align="center">
-  <a href="https://github.com/Daffa12777/boostify-ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daffa12777&repo=boostify-ml&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF3131&icon_color=BF3131" />
-  </a>
-</p>
-
-<p align="center"><i>Face recognition attendance system that records your presence with a smile — Python, OpenCV & dlib on Raspberry Pi.</i></p>
 
 ---
 
