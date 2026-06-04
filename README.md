@@ -109,7 +109,7 @@ class MuhammadDaffaFadlurrahman:
 
 <div align="center">
 
-[![Boostify](https://github-readme-stats.vercel.app/api/pin/?username=Daffa12777&repo=boostify-ml&theme=tokyonight&border_color=BF3131)](https://github.com/Daffa12777/boostify-ml)
+[![Boostify](https://readme-stats-five-mocha.vercel.app/api/pin/?username=Daffa12777&repo=boostify-ml&theme=tokyonight&border_color=BF3131)](https://github.com/Daffa12777/boostify-ml)
 
 </div>
 
@@ -119,12 +119,12 @@ class MuhammadDaffaFadlurrahman:
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Daffa12777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=BF3131&icon_color=BF3131&title_color=BF3131" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffa12777&layout=compact&theme=tokyonight&border_color=BF3131&title_color=BF3131" />
+<img height="175em" src="https://readme-stats-five-mocha.vercel.app/api?username=Daffa12777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=BF3131&icon_color=BF3131&title_color=BF3131" />
+<img height="175em" src="https://readme-stats-five-mocha.vercel.app/api/top-langs/?username=Daffa12777&layout=compact&theme=tokyonight&border_color=BF3131&title_color=BF3131" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Daffa12777&theme=tokyonight&border=BF3131&ring=BF3131&fire=BF3131&currStreakLabel=BF3131" />
+<img src="https://streak-stats.demolab.com?user=Daffa12777&theme=tokyonight&border=BF3131&ring=BF3131&fire=BF3131&currStreakLabel=BF3131" />
 
 <br/>
 
@@ -158,6 +158,5 @@ class MuhammadDaffaFadlurrahman:
 ```
 "Karena sesungguhnya bersama kesulitan itu ada kemudahan. Sesungguhnya bersama kesulitan itu ada kemudahan."
 ```
-
 
 </div>
