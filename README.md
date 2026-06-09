@@ -116,7 +116,6 @@ class MuhammadDaffaFadlurrahman:
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Daffa12777&theme=tokyonight&hide_border=true&ring=BF3131&fire=BF3131&currStreakLabel=BF3131" />
 
 </div>
 
